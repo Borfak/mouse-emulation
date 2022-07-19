@@ -1,7 +1,7 @@
 # mouse-emulation
 #### This script will emulate mouse work such as moving, dragging and clicking.
 
-To run the script type in terminal `python3 script.js`(don't forget to enter the folder with this script).
+To run the script type in terminal `python3 script.py`(don't forget to enter the folder with this script).
 
 > Use Ctrl+C in terminal to quit script.
 

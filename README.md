@@ -5,7 +5,7 @@ To run the script type in terminal `python3 script.py`(don't forget to enter the
 
 > Use Ctrl+C in terminal to quit script.
 
-
+ 
 
 
 
